@@ -1,0 +1,14 @@
+push (valor)
+agregamos un elemento al final del arreglo
+
+pop()
+Eliminamos el ultimo elemnto del arreglo
+
+unshift(valor)
+agregamos un elemento al inicio del arreglo
+
+shift ()
+eliminamos el primer elemento del arreglo
+
+splice(position, cuantos?, elementos?)
+agrega o elimina un elementi indicando una position.
